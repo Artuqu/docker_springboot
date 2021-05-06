@@ -1,6 +1,6 @@
 # docker_springboot
 ## Simple Spring Boot project works with Docker
-Here basic on this project you can make simple dokcer's image. Firstable you need of course to have docker on. Then:
+Here, basic on this project you can make simple docker's image. Firstable you need of course to have docker on. Then:
 - Upload this project and in folder with, open terminal. You can use any Linux, InteliJ or Wsl.
 - Write command: docker build -f dockerFile -t docker_image1:v1 .
  > ### Remember about this dot above !
